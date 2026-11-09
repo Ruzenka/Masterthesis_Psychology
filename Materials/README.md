@@ -13,4 +13,4 @@ Participants were recruited via Prolific and prescreened according to their self
 
 Conflict intensity was experimentally manipulated through a text-based vignette. Participants were randomly assigned to either a high- or low-conflict-intensity condition.
 
-The questionnaires subsequently assessed identification with the dietary ingroup, identification with mammals, altruistic preferences toward an anonymous other, parochial preferences involving an ingroup and outgroup based on a meat-consumption profile, and altruistic preferences toward mammals. Demographic information was collected at the end of the survey.
+The questionnaires subsequently assessed identification with the dietary ingroup, identification with mammals, altruistic preferences toward an anonymous other, parochial preferences involving the dietary ingroup and outgroup, and altruistic preferences toward mammals. Demographic information was collected at the end of the survey.
